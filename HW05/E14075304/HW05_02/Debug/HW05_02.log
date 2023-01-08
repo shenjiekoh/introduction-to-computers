@@ -1,0 +1,4 @@
+﻿  HW05_02.cpp
+d:\計算機概論\hw05\e14075304\hw05_02\hw05_02.cpp(14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\計算機概論\hw05\e14075304\hw05_02\hw05_02.cpp(9): warning C4101: 'percentage': 未參考的區域變數
+  HW05_02.vcxproj -> D:\計算機概論\HW05\E14075304\Debug\HW05_02.exe

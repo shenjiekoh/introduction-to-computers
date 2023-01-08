@@ -1,0 +1,3 @@
+﻿  HW08.cpp
+d:\計算機概論\hw08\e14075304\hw08\hw08.cpp(51): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  HW08.vcxproj -> D:\計算機概論\HW08\E14075304\Debug\HW08.exe

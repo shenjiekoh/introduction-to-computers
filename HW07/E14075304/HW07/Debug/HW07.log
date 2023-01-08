@@ -1,0 +1,3 @@
+﻿  HW07.cpp
+d:\計算機概論\hw07\e14075304\hw07\hw07.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW07.vcxproj -> D:\計算機概論\HW07\E14075304\Debug\HW07.exe
